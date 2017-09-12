@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drop Challenge</string>
+
+    <string name="lbl_name">Name: %s</string>
+    <string name="lbl_abv">ABV: %s</string>
+    <string name="lbl_description">Description: %s</string>
+    <string name="lbl_duration">Duration: %s</string>
+
+    <string name="lbl_loading">Loading…</string>
+    <string name="lbl_no_data_available">There is no data to show</string>
+    <string name="lbl_load_more_error">Something went wrong to get more beers, please try again.</string>
+
+</resources>
